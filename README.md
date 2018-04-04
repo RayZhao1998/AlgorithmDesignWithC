@@ -2,7 +2,7 @@
 
 挑选《算法设计技巧与分析》一书中出现的较为实用的算法进行C语言实现。
 
-1. []()
+1. [第一章 算法分析基本概念](https://github.com/RayZhao1998/AlgorithmDesignWithC/blob/master/markdown/ch1.md)
 
 同时在README中列出所实现的算法名称，以便之后复习时可以复现。
 
